@@ -1,1 +1,3 @@
+NameApp folder -> frontend (Angular).
+NameAPI folder -> backend (ASP.Net Core Web App).
 Output JSON file can be found under /wwwroot/JSON.
